@@ -1,5 +1,2 @@
-# Ryan
-adada
-adadad
-dadada
-dadadada
+# My name is Ryan 
+this is my first program
